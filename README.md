@@ -28,7 +28,7 @@ A couple of pre-compiled versions can be found in the [dist branch](https://gith
 Direct links:
 * [docker-v1.6.0](https://github.com/dokku32bit/docker_32bit/raw/dist/dist/docker-1.6.0.tar.gz)
 * [docker-v1.5.0](https://github.com/dokku32bit/docker_32bit/raw/dist/dist/docker-1.5.0.tar.gz)
-* [docker-v1.4.1]https://github.com/dokku32bit/docker_32bit/raw/dist/dist/docker-1.4.1.tar.gz
+* [docker-v1.4.1](https://github.com/dokku32bit/docker_32bit/raw/dist/dist/docker-1.4.1.tar.gz)
 
 #### 32bit docker images
 Resources for 32bit docker images are:
